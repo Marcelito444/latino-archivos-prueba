@@ -1,0 +1,8 @@
+funcion fib(n)
+    a,b = 0,1
+    mientras a < n
+        a,b = b, a+b
+        escribir(a)
+    fin
+fin
+
